@@ -1,0 +1,11 @@
+Tell a few condensed stories with examples of stereotype bias
+
+1. A recent college graduate from a rural town was applying for a job at a large corporation in the city. During the interview, the interviewer asked the young man if he was familiar with urban life and if he could handle a fast-paced work environment. The interviewer assumed that because the young man had lived in a rural area, he would not be able to adjust to life in the city and keep up with the demands of city life. 
+
+2. A young woman was walking down the street when she noticed two police officers following her. She began to feel scared, thinking that they were suspicious of her because she was wearing a hoodie and had on headphones. In reality, they were following her to ask if she had witnessed a crime that they were investigating, but she assumed they were profiling her based on her clothing and accessories. 
+
+3. An employee at a marketing company was passed up for promotion despite being one of the most qualified candidates for the job. When asked why he was overlooked, his supervisor said it was because he didn't fit the "corporate image" that their company wanted to portray - implying that his gender or ethnicity did not match what the company wanted as its public face.
+
+5. A young woman went to apply for a job in the tech industry and was told she wouldn’t be considered because she was a woman. This is an example of stereotype bias because it assumes that women are not capable of working in the tech industry, which is false. This type of bias can lead to fewer opportunities for women and other minority groups in the workplace.
+
+5. A student was rejected from a top university because they were from a low-income family. This is an example of stereotype bias because it assumes that people from low-income families are not capable or deserving of attending the university, which is untrue. This type of bias can limit access to higher education for certain groups and create class divisions based on preconceived notions about social status. 

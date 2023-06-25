@@ -1,0 +1,5 @@
+1. A teacher is evaluating a student's work. The teacher knows that the student has struggled in the past, but is impressed by their effort and improvement this time around. Instead of objectively evaluating the work, the teacher gives the student a passing grade out of sympathy for their past struggles. This is an example of outcome bias.
+
+2. A jury is deliberating in a criminal trial and trying to decide if the defendant is guilty or innocent. After hearing all of the evidence, they focus more on whether they think that the defendant should be found guilty or innocent, instead of objectively looking at the facts presented in court. This is an example of outcome bias.
+
+3. A hiring manager is interviewing candidates for a job opening and decides to hire a candidate who they have personally connected with, even though other candidates may have been more qualified for the position. This is an example of outcome bias.
